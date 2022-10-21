@@ -1,2 +1,2 @@
 # web
-Landing page for platolytics
+Landing page for platolytics.io
