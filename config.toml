@@ -7,7 +7,7 @@ theme = "spectral"
 fancyTitle = "Platolytics" # title for frontpage, may include image
 copyright = "Platolytics"
 description = 'Your existing metrics available the way they make sense!'
-startbuttonText = "Sign up for more information!"
+startbuttonText = "Sign up!"
 startbuttonLink = "#contact"
 body_is_markdown = true
 
