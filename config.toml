@@ -13,7 +13,7 @@ body_is_markdown = true
 
 [[params.cta.link]]
 href = "#contact"
-text = "Learn More"
+text = "Learn More!"
 special = false
 
 [params.cta]
