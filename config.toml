@@ -6,7 +6,7 @@ theme = "spectral"
 [params]
 fancyTitle = "Platolytics" # title for frontpage, may include image
 copyright = "Platolytics"
-description = 'Your existing metrics available the way they make sense!'
+description = 'Your existing metrics available the way they make sense for your data science team!'
 startbuttonText = "Sign up!"
 startbuttonLink = "#contact"
 body_is_markdown = true
@@ -15,7 +15,7 @@ body_is_markdown = true
 enable = true
 title = 'Usable'
 body = '''
-The metrics you have already, ready to be read in a way you know.
+The metrics you have already, ready to be read in a way your teams know.
 '''
 
 [[params.cta.link]]
