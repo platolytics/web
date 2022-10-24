@@ -1,8 +1,7 @@
 baseURL = 'https://platolytics.io/'
 languageCode = 'en-us'
 title = 'Platolytics'
-theme = "spectral"
-
+theme = "Spectral"
 
 [params]
 fancyTitle = "Platolytics" # title for frontpage, may include image
