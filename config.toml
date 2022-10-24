@@ -8,9 +8,13 @@ fancyTitle = "Platolytics" # title for frontpage, may include image
 copyright = "Platolytics"
 description = 'Your existing metrics available the way they make sense!'
 startbuttonText = "Sign up for more information!"
-startbuttonLink = "#one"
+startbuttonLink = "#contact"
 body_is_markdown = true
 
+[[params.cta.link]]
+href = "#contact"
+text = "Learn More"
+special = false
 
 [params.cta]
 enable = false
