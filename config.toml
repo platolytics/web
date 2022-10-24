@@ -15,3 +15,9 @@ body_is_markdown = true
 [[params.menu.main]]
 url = '/'
 title = "Home"
+
+[params.contact]
+enable = true
+title = "Signup!"
+body = "Sign up to stay informed"
+email = "nospam@example.com"
