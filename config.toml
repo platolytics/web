@@ -1,7 +1,7 @@
 baseURL = 'https://platolytics.io/'
 languageCode = 'en-us'
 title = 'Platolytics'
-theme = "Spectral"
+theme = "spectral"
 
 [params]
 fancyTitle = "Platolytics" # title for frontpage, may include image
@@ -10,6 +10,10 @@ description = 'Your existing metrics available the way they make sense!'
 startbuttonText = "Activate"
 startbuttonLink = "#"
 body_is_markdown = true
+
+
+[params.cta]
+enable = false
 
 [[params.menu.main]]
 url = '/'
