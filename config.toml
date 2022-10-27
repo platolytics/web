@@ -6,7 +6,7 @@ theme = "spectral"
 [params]
 fancyTitle = "Platolytics" # title for frontpage, may include image
 copyright = "Platolytics"
-description = 'Your existing metrics available the way they make sense for your data science team!'
+description = 'Making your metrics available to your Analytics Team!'
 startbuttonText = "Sign up!"
 startbuttonLink = "#contact"
 body_is_markdown = true
