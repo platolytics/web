@@ -4,7 +4,8 @@ title = 'Platolytics'
 theme = "spectral"
 
 [params]
-fancyTitle = '<img height="512" src="/images/logo-border.png" alt="Logo"/>'
+#fancyTitle = '<img height="512" src="/images/logo-border.png" alt="Logo"/>'
+fancyTitle = 'Platolytics'
 #title for frontpage, may include image
 copyright = "Platolytics"
 description = 'Making your metrics available to your Analytics Team!'
