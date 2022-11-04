@@ -4,7 +4,8 @@ title = 'Platolytics'
 theme = "spectral"
 
 [params]
-fancyTitle = "Platolytics" # title for frontpage, may include image
+fancyTitle = '<img height="512" src="/images/logo-border.png" alt="Logo"/>'
+#title for frontpage, may include image
 copyright = "Platolytics"
 description = 'Making your metrics available to your Analytics Team!'
 startbuttonText = "Sign up!"
@@ -16,6 +17,24 @@ enable = true
 title = 'Usable'
 body = '''
 The metrics you have already, ready to be read in a way your teams know.
+'''
+
+[params.two]
+enable = true
+[[params.two.section]]
+title = 'Effective'
+body = '''
+Use all of your Prometheus metrics, not just a fraction.
+'''
+[[params.two.section]]
+title = 'Easy'
+body = '''
+No need to understand PromQL for you intelligence teams.
+'''
+[[params.two.section]]
+title = 'Expertise'
+body = '''
+Built by professionals for professionals
 '''
 
 [[params.cta.link]]

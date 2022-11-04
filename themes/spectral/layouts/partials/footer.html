@@ -13,16 +13,11 @@
               {{ with .Site.Params.social.dribble }}
               <li><a href="https://dribble.com/{{ . }}" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
               {{ end }}
-              {{ with .Site.Params.contact.email }}
-              <li><a href="mailto:{{ . }}" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-              {{ end }}
-              {{ with .Site.Params.contact.phone }}
-              <li><a href="tel:{{ . }}" class="icon fa-phone"><span class="label">Phone</span></a></li>
-              {{ end }}
+
 
 						</ul>
 						<ul class="copyright">
-              <li>&copy; {{ now.Year }} {{.Site.Params.copyright | safeHTML }}</li><li>Design: Platolytics</a></li>
+              <li>&copy; {{ now.Year }} {{.Site.Params.copyright | safeHTML }}</li></li>
 						</ul>
 					</footer>
 
